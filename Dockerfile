@@ -1,1 +1,1 @@
-FROM astj/centos-vault
+FROM astj/centos5-vault

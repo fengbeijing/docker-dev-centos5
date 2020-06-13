@@ -1,0 +1,1 @@
+FROM astj/centos-vault
